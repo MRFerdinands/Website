@@ -1,0 +1,24 @@
+body {
+  overflow-x: hidden;
+}
+
+.text-fiture {
+  padding-top: 3rem;
+}
+
+.hero-index {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+.text-hero {
+  padding-top: 8rem;
+}
+
+.page-review {
+  padding-top: 8rem;
+}
+
+.footer {
+  padding-top: 6rem;
+}
